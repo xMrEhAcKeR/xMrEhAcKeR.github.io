@@ -88,7 +88,7 @@ const projectInfo2 = [
     popUpDescription: ``,
     liveDemo: `https://christianbiring1.github.io/Capstone_project-module1/`,
     sourceCode: `https://github.com/christianbiring1/Capstone_project-module1`,
-    screenshots: ['./Screenshots/AlmaDesign/1.png', './Screenshots/AlmaDesign/2.png', './Screenshots/AlmaDesign/3.png', './Screenshots/AlmaDesign/4.png', './Screenshots/AlmaDesign/5.png', './Screenshots/AlmaDesign/6.png', './Screenshots/AlmaDesign/7.png', './Screenshots/AlmaDesign/8.png'],
+    screenshots: ['./Screenshots/AlmaDesign/01.png', './Screenshots/AlmaDesign/02.png', './Screenshots/AlmaDesign/03.png', './Screenshots/AlmaDesign/04.png', './Screenshots/AlmaDesign/05.png'],
   },
 
   {
